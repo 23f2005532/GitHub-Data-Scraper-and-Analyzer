@@ -141,9 +141,10 @@ npm run dev
 
 ---
 
-## 🎓 Author
+## 👨‍💻 Author
 **Ehtesham Ansari**  
-IIT Madras BS in Data Science and Applications  
+B.S. in Data Science and Applications, IIT Madras  
+*Exploring Data Engineering, Automation, and MLOps*
 
 
 ---
