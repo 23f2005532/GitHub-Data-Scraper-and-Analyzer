@@ -92,7 +92,7 @@ By completing this project, you’ll gain experience with:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/github-data-analyzer.git
+git clone https://github.com/23f2005532/GitHub-Data-Scraper-and-Analyzer.git
 cd github-data-analyzer
 ```
 
@@ -145,7 +145,6 @@ npm run dev
 **Ehtesham Ansari**  
 IIT Madras BS in Data Science and Applications  
 
-This project is part of my **Machine Learning + Backend Engineering Roadmap** to build strong practical experience through applied, data-driven projects.
 
 ---
 
